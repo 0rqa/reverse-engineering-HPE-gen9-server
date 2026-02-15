@@ -5,9 +5,15 @@ f# HPE-gen9-server-reverse-engineering
 
 # Fan pinout
 
+[![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
+
+# 10pin backplane power connector
+
+[![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-10%20pin%20front%20disk%20backplane%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-10%20pin%20front%20disk%20backplane%20connector.pdf)
+
 # Front IO panel
 
-![Image]()
+[![Image]()]()
 
 # TO DO
 
