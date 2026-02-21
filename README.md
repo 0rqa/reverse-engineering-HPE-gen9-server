@@ -4,15 +4,19 @@
 > This repo is still under construction. Or as some know WIP
 
 # Fan pinout
- - ~~Proprietary HPE connector with pitch of 2mm~~
+
  - series WTB BMI Fan Connectors
    - Amphenol G875C02141DEU - crimp terminal - tin version  
    - Amphenol G875C02142DEU - crimp terminal - gold plated version
    - Amphenol G875H10620DEU - 6 pin male crimp connector
    - Amphenol G86106413D2EU - 6 pin female THT recepticle
   
+<br>
+
+- To enable the fan detection, connect the detect pin directly to GND. 
+
    <br>
-     
+   
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
 
 <br>
