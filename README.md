@@ -1,7 +1,7 @@
 # HPE-gen9-server-reverse-engineering
 
 >[!NOTE]
-> This repo is still under construction. Or as some know WIP
+> This repo is still under construction, or as some know WIP
 
 <br>
 
