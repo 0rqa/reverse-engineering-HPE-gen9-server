@@ -57,7 +57,7 @@
 
 <br>
 
-# TO DO
+# TODO:
 
 - [x] Map the pinout of front backplane connector
 - [x] Map the pinout of port on 8SSF backplane
