@@ -10,8 +10,12 @@
    - Amphenol G875C02142DEU - crimp terminal - gold plated version
    - Amphenol G875H10620DEU - 6 pin male crimp connector
    - Amphenol G86106413D2EU - 6 pin female THT recepticle
+  
+   <br>
      
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
+
+<br>
 
 # 10pin backplane power connector
 
@@ -20,7 +24,11 @@
   - Molex 430251000 - 10 pin male crimp connector
   - Molex 430451013 - 10 pin female THT receptacle 
 
+<br>
+
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-10%20pin%20front%20disk%20backplane%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-10%20pin%20front%20disk%20backplane%20connector.pdf)
+
+<br>
 
 # 6+4pin 8SSF backplane power connector
 
@@ -31,13 +39,23 @@
   - Molex 430250600 - 6 pin male crimp connector
   - Molex 430450612 - 6 pin female THT receptacle
 
+<br>
+
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-4%20%2B%206%20pin%208SFF%20backplane%20connectors.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-4%20%2B%206%20pin%208SFF%20backplane%20connectors.pdf)
+
+<br>
   
 # Front IO panel
+
+ - Proprietary HPE connector?
+ 
+<br>
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-1.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-2.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
+
+<br>
 
 # TO DO
 
