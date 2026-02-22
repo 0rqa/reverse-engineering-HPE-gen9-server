@@ -15,7 +15,7 @@
   
 <br>
 
-- To enable the fan detection, connect the detect pin directly to GND. 
+- To enable the fan detection, connect the detect pin directly to GND. The PWM signal is revesed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a mcu convertor will be needed for fan convertion.
 
    <br>
    
