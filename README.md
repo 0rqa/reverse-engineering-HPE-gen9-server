@@ -25,7 +25,7 @@
   
 <br>
 
-- To enable the fan detection, connect the detect pin directly to GND. The PWM signal is revesed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a some type of convertor will be necessary for fan swap.
+- To enable the fan detection, connect the detect pin directly to GND. The PWM signal is reversed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a some type of convertor will be necessary for fan swap.
 
    <br>
    
