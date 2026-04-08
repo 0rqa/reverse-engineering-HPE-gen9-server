@@ -20,9 +20,13 @@
  - series WTB BMI Fan Connectors
    - Amphenol G875C02141DEU - crimp terminal - tin version  
    - Amphenol G875C02142DEU - crimp terminal - gold plated version
-   - Amphenol G875H10620DEU - 6 pin male crimp connector
-   - Amphenol G86106413D2EU - 6 pin female THT recepticle
+   - Amphenol G875H10620DEU - 6-pin male crimp connector
+   - Amphenol G86106413D2EU - 6-pin female THT recepticle
   
+<br>
+
+ -  3D printed replacement for Amphenol G875H10620DEU useing 6-pin 2.0mm Dupont, either female header or female crimp connector. 
+
 <br>
 
 - To enable the fan detection, connect the detect pin directly to GND. The PWM signal is reversed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a some type of convertor will be necessary for fan swap.
@@ -50,10 +54,10 @@
 
 - series Micro-Fit 3.0
   - Molex 43030000 - crimp terminal
-  - Molex 0430250400 - 4 pin male crimp connector
-  - Molex 0430450413 - 4 pin female THT receptacle
-  - Molex 430250600 - 6 pin male crimp connector
-  - Molex 430450612 - 6 pin female THT receptacle
+  - Molex 0430250400 - 4-pin male crimp connector
+  - Molex 0430450413 - 4-pin female THT receptacle
+  - Molex 430250600 - 6-pin male crimp connector
+  - Molex 430450612 - 6-pin female THT receptacle
 
 <br>
 
