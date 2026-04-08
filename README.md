@@ -63,6 +63,11 @@
 
 <br>
 
+# DL360 main raiser card
+
+Surounding component with silkscreen of U2 = VHC125 TOS - IO buffer, U3 = 74LV165AD - 8bit serial register, and one unknow U4 = E3 8A
+
+
 # TODO:
 
 - [x] Map the pinout of front backplane connector
