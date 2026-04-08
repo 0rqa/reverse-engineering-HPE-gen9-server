@@ -23,15 +23,15 @@
    - Amphenol G875H10620DEU - 6-pin male crimp connector
    - Amphenol G86106413D2EU - 6-pin female THT recepticle
   
-<br>
 
- -  3D printed replacement for Amphenol G875H10620DEU useing 6-pin 2.0mm Dupont, either female header or female crimp connector. 
 
-<br>
+ -  3D printed replacement for Amphenol G875H10620DEU useing 6-pin 2.0mm Dupont, either female header or female crimp connector. [Here!](https://github.com/0rqa/reverse-engineering-HPE-gen9-server/blob/main/3D%20models/Amphenol%20G875H10620DEU%20compatible%203D%20printed%20connector%20for%20dupont%202.0/Amphenol%20G875H10620DEU%20compatible%203D%20printed%20connector%20for%20dupont%202.0.stl)
+
+
 
 - To enable the fan detection, connect the detect pin directly to GND. The PWM signal is reversed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a some type of convertor will be necessary for fan swap.
 
-   <br>
+ <br>
    
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
 
