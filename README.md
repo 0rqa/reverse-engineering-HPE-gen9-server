@@ -1,7 +1,6 @@
-# HPE-gen9-server-reverse-engineering
 
 >[!Caution]
-> Disclaimer / Reverse Engineering Notice: <br> <br>
+> Disclaimer / Reverse Engineering Notice: <br> 
 > All information, diagrams, and schematics in this repository were obtained through independent reverse engineering, measurement, and observation. 
 > No proprietary, confidential, or leaked documents were used directly to create this content. 
 > All pin assignments, signal mappings, and layouts represent independent analysis and do not reproduce any proprietary documentation. <br> <br>
@@ -21,7 +20,8 @@
    - Amphenol G875C02141DEU - crimp terminal - tin version  
    - Amphenol G875C02142DEU - crimp terminal - gold plated version
    - Amphenol G875H10620DEU - 6-pin male crimp connector
-   - Amphenol G86106413D2EU - 6-pin female THT recepticle
+   - Amphenol G86106413D2EU - 6-pin female THT recepticle# HPE-gen9-server-reverse-engineering
+
   
 
 
