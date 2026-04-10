@@ -1,4 +1,4 @@
-# Reverse engineering HPE-gen9-server
+# Reverse engineering HPE gen9 server
 
 >[!Caution]
 > Disclaimer / Reverse Engineering Notice: <br> 
