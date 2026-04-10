@@ -11,7 +11,7 @@
 <br>
 
 >[!NOTE]
-> This repo is still under construction, or as some know WIP
+> This repo is still being developed (WIP). All information in this repository is provided in good faith but may contain inaccuracies.
 
 <br>
 
