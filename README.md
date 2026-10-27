@@ -81,8 +81,8 @@
 # Smart array connector 
 
 - series [BergStak® 0.80mm](https://www.digikey.com/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308?s=N4IgjCBcoLQCxVAYygMwIYBsDOBTANCAG4B2aWehA9lANogBsA7EwEwCsIAuoQA4AuUECAC%20Iwp2gheUMHxmQwABiVigA)
- - 61083-122502LF - female side on the server motherboard
- - 61082-122402LF - male side on the mezine 
+  - 61083-122502LF - female side on the server motherboard
+  - 61082-122402LF - male side on the mezine 
 
 <br>
 
