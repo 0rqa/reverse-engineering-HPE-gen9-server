@@ -68,13 +68,21 @@
   
 # Front IO panel
 
- - Proprietary HPE connector?
+ - Proprietary HPE connector? To this day, I still wasn't able to track down this connector. 
  
 <br>
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-1.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-2.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
+
+<br>
+
+# Smart array connector 
+
+- series [BergStak® 0.80mm](https://www.digikey.com/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308?s=N4IgjCBcoLQCxVAYygMwIYBsDOBTANCAG4B2aWehA9lANogBsA7EwEwCsIAuoQA4AuUECAC%20Iwp2gheUMHxmQwABiVigA)
+ - 61083-122502LF - female side on the server motherboard
+ - 61082-122402LF - male side on the mezine 
 
 <br>
 
