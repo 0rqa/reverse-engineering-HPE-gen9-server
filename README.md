@@ -1,7 +1,7 @@
-# HPE-gen9-server-reverse-engineering
+# Reverse engineering HPE gen9 server
 
 >[!Caution]
-> Disclaimer / Reverse Engineering Notice: <br> <br>
+> Disclaimer / Reverse Engineering Notice: <br> 
 > All information, diagrams, and schematics in this repository were obtained through independent reverse engineering, measurement, and observation. 
 > No proprietary, confidential, or leaked documents were used directly to create this content. 
 > All pin assignments, signal mappings, and layouts represent independent analysis and do not reproduce any proprietary documentation. <br> <br>
@@ -11,7 +11,7 @@
 <br>
 
 >[!NOTE]
-> This repo is still under construction, or as some know WIP
+> This repo is still being developed (WIP). All information in this repository is provided in good faith but may contain inaccuracies.
 
 <br>
 
@@ -21,17 +21,18 @@
    - Amphenol G875C02141DEU - crimp terminal - tin version  
    - Amphenol G875C02142DEU - crimp terminal - gold plated version
    - Amphenol G875H10620DEU - 6-pin male crimp connector
-   - Amphenol G86106413D2EU - 6-pin female THT recepticle
+   - Amphenol G86106413D2EU - 6-pin female THT recepticle# HPE-gen9-server-reverse-engineering
+
   
-<br>
 
- -  3D printed replacement for Amphenol G875H10620DEU useing 6-pin 2.0mm Dupont, either female header or female crimp connector. 
 
-<br>
+ -  3D printed replacement for Amphenol G875H10620DEU useing 6-pin 2.0mm Dupont, either female header or female crimp connector. [Here!](https://github.com/0rqa/reverse-engineering-HPE-gen9-server/blob/main/3D%20models/Amphenol%20G875H10620DEU%20compatible%203D%20printed%20connector%20for%20dupont%202.0/Amphenol%20G875H10620DEU%20compatible%203D%20printed%20connector%20for%20dupont%202.0.stl)
+
+
 
 - To enable the fan detection, connect the detect pin directly to GND. The PWM signal is reversed eg. fans runs at 100% when pwm is at 0% compared to normal PC fan. So a some type of convertor will be necessary for fan swap.
 
-   <br>
+ <br>
    
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
 
@@ -67,13 +68,21 @@
   
 # Front IO panel
 
- - Proprietary HPE connector?
+ - Proprietary HPE connector? To this day, I still wasn't able to track down this connector. 
  
 <br>
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-1.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
 
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-front%20panel%20IO%20connector-2.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-front%20panel%20IO%20connector.pdf)
+
+<br>
+
+# Smart array connector 
+
+- series [BergStak® 0.80mm](https://www.digikey.com/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308?s=N4IgjCBcoLQCxVAYygMwIYBsDOBTANCAG4B2aWehA9lANogBsA7EwEwCsIAuoQA4AuUECAC%20Iwp2gheUMHxmQwABiVigA)
+  - 61083-122502LF - female side on the server motherboard
+  - 61082-122402LF - male side on the mezine 
 
 <br>
 
@@ -88,6 +97,6 @@ Surounding component with silkscreen of U2 = VHC125 TOS - IO buffer, U3 = 74LV16
 - [x] Map the pinout of port on 8SSF backplane
 - [x] Map the pinout of front IO connector
 - [x] Map the pinout of fan connector 
-- [ ] Map the pinout of "Smart array connector"
+- [ ] Map the pinout of "Smart array connector" - P18719-001
 - [ ] Map the pinout of main PCIE raiser card port
 - [ ] Map the pinout of seccondart PCIE raiser card port
