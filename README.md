@@ -99,4 +99,5 @@ Surounding component with silkscreen of U2 = VHC125 TOS - IO buffer, U3 = 74LV16
 - [x] Map the pinout of fan connector 
 - [ ] Map the pinout of "Smart array connector" - P18719-001
 - [ ] Map the pinout of main PCIE raiser card port
-- [ ] Map the pinout of seccondart PCIE raiser card port
+- [ ] Map the pinout of secondart PCIE raiser card port
+- [ ] Map the pinout of HP psus - [10122859-009LF](https://www.digikey.com/en/products/detail/amphenol-cs-fci/10122859-009LF/5205500)
